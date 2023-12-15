@@ -31,3 +31,5 @@
 |     24    |     HTTP response history      |     HTTP             |     HTTP response code returned by a server to indicate   the outcome of a client's request made to the server.                                                                                                                              |
 |     25    |     Redirect                   |        HTTP              |     Website redirects to another site (1) or not (0),   detected with HTTP redirection response codes                                                                                                                                        |
 
+
+Please cite the paper: Kapan, S.; Sora Gunal, E. Improved Phishing Attack Detection with Machine Learning: A Comprehensive Evaluation of Classifiers and Features. Appl. Sci. 2023, 13, 13269. https://doi.org/10.3390/app132413269 
